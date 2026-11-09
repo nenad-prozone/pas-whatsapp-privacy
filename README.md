@@ -6,6 +6,6 @@ Privacy policy and data-deletion instructions for the WhatsApp helpdesk integrat
 - `data-deletion.html`: Data Deletion Instructions
 - `style.css`: Shared page styling
 
-Contact: [office@prozone-me.com](mailto:office@prozone-me.com) | [Official website](https://www.prozone-me.com/)
+Contact: [Official website](https://www.prozone-me.com/)
 
 GitHub Pages publishes these documents from the default `main` branch, root directory.
